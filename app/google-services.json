@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039020053006",
+    "project_id": "applied-programming-project",
+    "storage_bucket": "applied-programming-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039020053006:android:d052dfbbe319c44e11a25f",
+        "android_client_info": {
+          "package_name": "com.example.contactsadd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039020053006-95ip2luguuboi8nsbkechrg8ice3l3ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzV6zcVZrVHASeonQ69xgTUqaH7VAdWWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039020053006-95ip2luguuboi8nsbkechrg8ice3l3ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
